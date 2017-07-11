@@ -23,7 +23,7 @@
     "custom-elements": "webcomponents/custom-elements#^v1.0.0",
     "es6-promise": "stefanpenner/es6-promise#^4.0.0",
     "html-imports": "webcomponents/html-imports#^v1.0.0",
-    "shadydom": "gwicks/shadydom#6eae04fc8f920005240067789689ebe254904a80",
+    "shadydom": "webcomponents/shadydom#686f7fa4b5b4641662abcac023abd9fa9ab7b821",
     "shadycss": "webcomponents/shadycss#^v1.0.0",
     "template": "webcomponents/template#^v1.0.0",
     "webcomponents-platform": "webcomponents/webcomponents-platform#^v1.0.0"
